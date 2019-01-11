@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.line{
+    height: 100px;
+    width: 100%
+}
+.line-big{
+    height: 200px;
+    width: 100%;
+}
+
+.line-one{
+    background-color: #D8D8D8;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.line-one-div{
+    width: 70px;
+    height: 70px;
+    background-color: #4B8FE2
+}
+
+.line-two{
+   background-color: #FFFFFF;
+   box-sizing: border-box;
+   padding: 75px;
+}
+
+.line-three{
+    background-color:#4B8FE2; 
+}
+.line-four{
+    background-color:#50E2C2;
+}
+.line-five{
+    background-color: #B8E986;
+
+}
+.line-six{
+    background-color: #F8E71B;
+    
+}
